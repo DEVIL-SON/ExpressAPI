@@ -1,0 +1,56 @@
+[
+    {
+        "name" : "Plastic Bottle",
+        "price" : "10",
+        "feature" : "true",
+        "company" : "bislery"
+    },
+    {
+        "name" : "Food Wrapper",
+        "price" : "5",
+        "feature" : "true",
+        "company" : "Balaji"
+    },
+    {
+        "name" : "Polythene",
+        "price" : "5",
+        "feature" : "true",
+        "company" : "Random Company"
+    },
+    {
+        "name" : "Beverages Bottle",
+        "price" : "10",
+        "feature" : "true",
+        "company" : "bislery"
+    },
+    {
+        "name" : "Hard Plastic",
+        "price" : "10",
+        "feature" : "true",
+        "company" : "Zomato"
+    },
+    {
+        "name" : "Plastic equipments",
+        "price" : "10",
+        "feature" : "true",
+        "company" : "Plastic company"
+    },
+    {
+        "name" : "Newspaper",
+        "price" : "1",
+        "feature" : "true",
+        "company" : "timesofindia"
+    },
+    {
+        "name" : "Newspaper",
+        "price" : "10",
+        "feature" : "true",
+        "company" : "hindustantimes"
+    },
+    {
+        "name" : "Toys",
+        "price" : "10",
+        "feature" : "true",
+        "company" : "toycompany"
+    }
+]
