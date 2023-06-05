@@ -28,7 +28,7 @@ const getAllProducts = async (req, res) => {
         apiData = apiData.select(selectFix);
     }
     
-    const myData = await apiData.select("name company");;
+    const myData = await apiData.select(req.query);;
     
     res.status(200).json({ myData });
 };
